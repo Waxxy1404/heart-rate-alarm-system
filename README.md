@@ -2,8 +2,6 @@
 
 An embedded systems project that monitors heart rate in real-time using the **MAX30102** optical sensor and triggers an audible alarm when BPM exceeds a configurable threshold. Designed with elderly care and patient monitoring in mind.
 
-![Hardware](./images/circuit1.jpg)
-
 ---
 
 ## 📋 Overview
@@ -39,8 +37,8 @@ This system continuously reads heart rate data from a MAX30102 pulse oximeter se
 ### Circuit Photos
 
 <div align="center">
-<img src="./images/circuit_1.jpg" width="45%"/>
-<img src="./images/circuit_2.jpg" width="45%"/>
+<img src="./images/circuit1.jpg" width="45%"/>
+<img src="./images/circuit2.jpg" width="45%"/>
 </div>
 
 ---
