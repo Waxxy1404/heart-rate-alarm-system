@@ -2,7 +2,7 @@
 
 An embedded systems project that monitors heart rate in real-time using the **MAX30102** optical sensor and triggers an audible alarm when BPM exceeds a configurable threshold. Designed with elderly care and patient monitoring in mind.
 
-![Hardware](./circuit_1.jpg)
+![Hardware](./circuit1.jpg)
 
 ---
 
