@@ -169,7 +169,7 @@ This project was developed as part of an Electronics course at **UFPE (Universid
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source.
 
 ---
 
